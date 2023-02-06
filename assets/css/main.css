@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    background-color: #FFF7E2;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#showcase {
+    background-color: #373232;
+}
+
+.carousel_bg {
+    padding: 30px;
+}
+
+#showcase h1 {
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    color: #ffff;
+}
+
+#showcase a {
+    
+    box-sizing: border-box;
+    text-decoration: none;
+    background-color: #FFF7E2;
+    padding: 10px;
+    border-radius: 20px;
+    color: #636363;
+    text-transform: uppercase;
+    font-weight: 700;
+}
